@@ -53,14 +53,6 @@ ip route
 
 Cette commande affiche les routes réseau et la passerelle par défaut.
 
-## Résultats observés
-
-- Le système utilise Parrot Security 7.4 en architecture 64 bits.
-- La mémoire RAM totale affichée est de 7,6 GiB.
-- La partition principale `/` dispose d'environ 28 Go d'espace disponible.
-- L'interface Wi-Fi `wlp4s0` possède l'adresse IP `10.155.108.74/24`.
-- La passerelle par défaut est `10.155.108.244`.
-- Docker utilise une interface virtuelle `docker0` avec l'adresse `172.17.0.1`
 
 ## Conclusion
 
