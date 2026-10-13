@@ -45,7 +45,7 @@ ip -br addr
 
 Cette commande affiche les interfaces réseau et leurs adresses IP de manière concise.
 
-### 3.5. Table de routage
+### Table de routage
 
 ```bash
 ip route
