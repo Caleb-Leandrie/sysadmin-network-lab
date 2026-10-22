@@ -5,8 +5,8 @@
 - Nom : MANANDAZA Léandrie Caleb
 - Localisation : Madagascar
 - E-mail : leandriecaleb4@gmail.com
-- GitHub : [Lien vers le dépôt sysadmin-network-lab]
-- LinkedIn : [Lien du profil, si disponible]
+- GitHub : https://github.com/Caleb-Leandrie/sysadmin-network-lab
+- LinkedIn : https://www.linkedin.com/in/caleb-l%C3%A9andrie-manandaza-5b235940b
 
 ## Profil
 
@@ -40,7 +40,7 @@ Les projets sont présentés selon leur état réel d'avancement et seront compl
 ## Langues
 
 - Malagasy : langue maternelle
-- Français : niveau intermediaire
+- Français : conversation
 - Anglais : niveau intermediaire
 
 ## Objectif
