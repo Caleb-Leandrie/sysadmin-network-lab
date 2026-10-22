@@ -57,3 +57,17 @@ Je continue à développer mes compétences à travers des projets pratiques doc
 - GitHub : [Voir mes dépôts](https://github.com/)
 
 *Ce portfolio évolue au fur et à mesure de la réalisation et de la documentation de mes projets.*
+
+## Profil professionnel et CV
+
+- [Consulter mon profil professionnel](./PROFILE.md)
+- [Consulter mon CV](./CV.md)
+
+## Documentation technique
+
+Retrouvez les travaux pratiques et projets organisés par domaine :
+
+- [Administration Linux](./linux-administration/)
+- [Réseaux avec GNS3](./reseaux-gns3/)
+- [Docker et déploiement](./docker-deploiement/)
+- [Projet d'infrastructure](./projet-infrastructure/)
