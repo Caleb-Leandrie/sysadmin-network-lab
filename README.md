@@ -16,7 +16,7 @@ Je développe mes compétences à travers des travaux pratiques et des projets r
 
 ## Travaux pratiques
 
-### 1. Administration Linux
+### Administration Linux
 
 Documentation de travaux pratiques portant sur :
 
@@ -26,25 +26,25 @@ Documentation de travaux pratiques portant sur :
 - Disques, partitions et systèmes de fichiers.
 - Diagnostic réseau sous Linux.
 
-Dossier : [`01-linux-administration`](./01-linux-administration/)
+Dossier : [`linux-administration`](./linux-administration/)
 
-### 2. Réseaux avec GNS3
+### Réseaux avec GNS3
 
 Travaux pratiques de configuration et de compréhension des réseaux informatiques.
 
-Dossier : [`02-reseaux-gns3`](./02-reseaux-gns3/)
+Dossier : [`reseaux-gns3`](./reseaux-gns3/)
 
-### 3. Docker et déploiement
+### Docker et déploiement
 
 Espace consacré aux projets de conteneurisation et de déploiement d’applications.
 
-Dossier : [`03-docker-deploiement`](./03-docker-deploiement/)
+Dossier : [`docker-deploiement`](./docker-deploiement/)
 
-### 4. Projet d’infrastructure
+### Projet d’infrastructure
 
 Espace consacré aux projets d’infrastructure et aux services réseau.
 
-Dossier : [`04-projet-infrastructure`](./04-projet-infrastructure/)
+Dossier : [`projet-infrastructure`](./projet-infrastructure/)
 
 ## Objectif professionnel
 
