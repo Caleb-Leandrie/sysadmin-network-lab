@@ -1,37 +1,59 @@
-# sysadmin-network-lab
-# Administration Système Linux et Réseaux
+# Portfolio — Administration Système et Réseau
 
-## À propos du projet
+## Profil
 
-Ce dépôt présente mes travaux pratiques et mes projets dans les domaines de l’administration système Linux, des réseaux informatiques et du déploiement d’infrastructures.
+Étudiant en ingénierie informatique, orienté vers l’administration système, les réseaux et le déploiement d’infrastructures.
 
-Mon objectif est de développer mes compétences techniques à travers des exercices pratiques, des projets progressifs et une documentation claire.
+Je développe mes compétences à travers des travaux pratiques et des projets réalisés en environnement Linux, VirtualBox et Docker.
 
 ## Compétences techniques
 
-- **Systèmes d’exploitation :** Debian Linux, Parrot OS
-- **Réseaux :** TCP/IP, DHCP, DNS, configuration réseau, GNS3
-- **Virtualisation :** VirtualBox
-- **Gestion de versions :** Git et GitHub
-- **Infrastructure :** démarrage PXE et déploiement de systèmes d’exploitation
-- **Conteneurs :** Docker et Docker Compose
+- **Systèmes :** Linux, administration système, utilisateurs, permissions, services et journaux.
+- **Réseaux :** configuration IP, diagnostic réseau, DNS, TCP/IP et routage.
+- **Conteneurs :** Docker et gestion de conteneurs.
+- **Virtualisation :** VirtualBox et création de laboratoires techniques.
+- **Outils :** Git, GitHub, terminal Linux et SSH.
 
-## Projets
+## Travaux pratiques
 
-### 01 — Administration système Linux
-Configuration Linux, gestion des utilisateurs et permissions, administration des services et dépannage.
+### 1. Administration Linux
 
-### 02 — Réseaux informatiques avec GNS3
-Création de topologies réseau, adressage IP, routage et tests de connectivité.
+Documentation de travaux pratiques portant sur :
 
-### 03 — Déploiement avec Docker
-Conteneurisation d’applications et déploiement avec Docker et Docker Compose.
+- Informations système et commandes Linux.
+- Gestion des utilisateurs, groupes et permissions.
+- Processus, services et journaux système.
+- Disques, partitions et systèmes de fichiers.
+- Diagnostic réseau sous Linux.
 
-### 04 — Déploiement d’infrastructure
-Projet pratique utilisant Debian Server, DHCP, PXE et le déploiement de systèmes d’exploitation par le réseau.
+Dossier : [`01-linux-administration`](./01-linux-administration/)
 
-## Objectif actuel
+### 2. Réseaux avec GNS3
 
-Développer une expérience pratique en administration système Linux, en réseaux et en automatisation des infrastructures.
+Travaux pratiques de configuration et de compréhension des réseaux informatiques.
 
-*Ce dépôt évoluera au fur et à mesure de la réalisation et de la documentation de mes projets.*
+Dossier : [`02-reseaux-gns3`](./02-reseaux-gns3/)
+
+### 3. Docker et déploiement
+
+Espace consacré aux projets de conteneurisation et de déploiement d’applications.
+
+Dossier : [`03-docker-deploiement`](./03-docker-deploiement/)
+
+### 4. Projet d’infrastructure
+
+Espace consacré aux projets d’infrastructure et aux services réseau.
+
+Dossier : [`04-projet-infrastructure`](./04-projet-infrastructure/)
+
+## Objectif professionnel
+
+Rejoindre une équipe informatique pour contribuer à l’administration des systèmes, à la gestion des réseaux et au déploiement de services.
+
+Je continue à développer mes compétences à travers des projets pratiques documentés et reproductibles.
+
+## Contact
+
+- GitHub : [Voir mes dépôts](https://github.com/)
+
+*Ce portfolio évolue au fur et à mesure de la réalisation et de la documentation de mes projets.*
